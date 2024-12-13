@@ -7,3 +7,5 @@
 [Project 3: Customer Churn Analysis - Power BI](https://github.com/Mickey-lucky/Customer-Churn-Analysis-Power-BI)
 
 [Project 4: Computer hardware sales report](https://github.com/Mickey-lucky/Computer-Hardware-sales-analysis)
+
+[Project 5: Electronic Device Business Insight Dashboard](https://github.com/Mickey-lucky/Electronic-Device-Business-Insight-Dashboard-)
