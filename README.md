@@ -5,8 +5,8 @@
 
 [Project 3: E-Commerce Customer Behavior Analysis](https://github.com/Mickey-lucky/E-Commerce-Customer-Behavior-Analysis)
 
-[Project 4 : Computer hardware sales report (Excel, Power Query)](https://github.com/Mickey-lucky/Computer-Hardware-sales-analysis)
+[Project 4: Computer hardware sales report (Excel, Power Query)](https://github.com/Mickey-lucky/Computer-Hardware-sales-analysis)
 
-[Project 5: Computer hardware sales report (SQL, Excel)](https://github.com/Mickey-lucky/Computer-Hardware-sales-analysis)
+[Project 5: Computer hardware sales report (SQL, Excel)](https://github.com/Mickey-lucky/Computer-Hardare-Sales-Report-SQL-)
 
 [Project 6: Customer Churn Analysis - Power BI](https://github.com/Mickey-lucky/Customer-Churn-Analysis-Power-BI)
