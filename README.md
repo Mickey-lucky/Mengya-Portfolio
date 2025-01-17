@@ -1,5 +1,5 @@
 # Mengya's Portfolio
-[Project 1: Computer Hardware Business Insight Power BI Dashboard](https://github.com/Mickey-lucky/Electronic-Device-Business-Insight-Dashboard-)
+[Project 1: Comprehensive Business Insight Dashboard (Power BI)](https://github.com/Mickey-lucky/Electronic-Device-Business-Insight-Dashboard-)
 
 [Project 2: Single-Family Residence PD&LGD Implementation and RWA Assessment (SQL, Python)](https://github.com/Mickey-lucky/Single-Family-Residence-PD-LGD-RWA-Project)
 
