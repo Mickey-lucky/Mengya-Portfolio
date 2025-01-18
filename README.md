@@ -7,6 +7,6 @@
 
 [Project 4: Computer Hardware Sales and P&L Reporting (Excel, Power Query)](https://github.com/Mickey-lucky/Computer-Hardware-sales-analysis)
 
-[Project 5: Computer Hardware sales Insight (SQL, Excel)](https://github.com/Mickey-lucky/Computer-Hardare-Sales-Report-SQL-)
+[Project 5: Computer Hardware Sales Insight (SQL, Excel)](https://github.com/Mickey-lucky/Computer-Hardare-Sales-Report-SQL-)
 
 [Project 6: Customer Churn Analysis - Power BI](https://github.com/Mickey-lucky/Customer-Churn-Analysis-Power-BI)
