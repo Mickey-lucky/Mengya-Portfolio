@@ -1,7 +1,7 @@
 # Mengya Wu's Portfolio
 [Project 1: Comprehensive Business Insight Dashboard (Power BI & DAX)](https://github.com/Mickey-lucky/Electronic-Device-Business-Insight-Dashboard-)
 
-[Project 2: Single-Family Residence PD&LGD Implementation and RWA Assessment(SQL, Python)] (https://github.com/Mickey-lucky/Single-Family-Residence-PD-LGD-RWA-Project)
+[Project 2: Single-Family Residence PD&LGD Implementation and RWA Assessment(SQL, Python)](https://github.com/Mickey-lucky/Single-Family-Residence-PD-LGD-RWA-Project)
 
 [Project 3: Online Retail_Business Marketing Analysis - SQL & Python & Power BI](https://github.com/Mickey-lucky/PowerBI_Marketing_Analytics_Online_Retail_Business?tab=readme-ov-file)
 
