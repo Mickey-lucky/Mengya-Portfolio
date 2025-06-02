@@ -3,7 +3,7 @@
 
 [Project 2: Single-Family Residence PD&LGD Implementation and RWA Assessment(SQL, Python)](https://github.com/Mickey-lucky/Single-Family-Residence-PD-LGD-RWA-Project)
 
-[Project 3: Online Retail Business Marketing Analysis - SQL & Python & Power BI](https://github.com/Mickey-lucky/PowerBI_Marketing_Analytics_Online_Retail_Business?tab=readme-ov-file)
+[Project 3: Online Retail Business Marketing Campaign_Analysis - SQL & Python & Power BI](https://github.com/Mickey-lucky/PowerBI_Marketing_Analytics_Online_Retail_Business?tab=readme-ov-file)
 
 [Project 4: Computer Hardware Sales and P&L Reporting (Excel, Power Query)](https://github.com/Mickey-lucky/Computer-Hardware-sales-analysis)
 
