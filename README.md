@@ -1,5 +1,5 @@
 # Mengya Wu's Portfolio
-[Project 1: Comprehensive Business Insight Dashboard (Power BI & DAX)](https://github.com/Mickey-lucky/Electronic-Device-Business-Insight-Dashboard-)
+[Project 1: Comprehensive Business Insight Dashboard (Power BI & DAX & Dimensional Modeling)](https://github.com/Mickey-lucky/Electronic-Device-Business-Insight-Dashboard-)
 
 [Project 2: Jewelry Sales Analysis Report (Power BI & DAX & Dimensional Modeling)](https://wmy3004.wixsite.com/mengya)
 
